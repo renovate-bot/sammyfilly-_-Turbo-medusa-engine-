@@ -2137,13 +2137,13 @@ __metadata:
   linkType: hard
 
 "@types/jsdom@npm:^21.1.1":
-  version: 21.1.2
-  resolution: "@types/jsdom@npm:21.1.2"
+  version: 21.1.7
+  resolution: "@types/jsdom@npm:21.1.7"
   dependencies:
     "@types/node": "*"
     "@types/tough-cookie": "*"
     parse5: ^7.0.0
-  checksum: 041b837cd9af1d646c0130a41f0194615f19d9b27a589c1d01871d9af9b8d73728038a6275ea2cd24d6e8eaa2bbc2e19003d03b263c0736cdd61e3fdf5b388ab
+  checksum: c0c0025adc2b193e85453eeeea168bb909f0ebad08d6552be7474a407e9c163db8f696dcf1e3cbe8cb9c9d970ba45f4386171794509c1a0fe5d1fed72c91679d
   languageName: node
   linkType: hard
 
