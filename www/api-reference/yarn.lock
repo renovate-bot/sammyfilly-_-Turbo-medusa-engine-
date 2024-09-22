@@ -547,8 +547,8 @@ __metadata:
   linkType: hard
 
 "@next/mdx@npm:^13.4.12":
-  version: 13.4.19
-  resolution: "@next/mdx@npm:13.4.19"
+  version: 13.5.7
+  resolution: "@next/mdx@npm:13.5.7"
   dependencies:
     source-map: ^0.7.0
   peerDependencies:
@@ -559,7 +559,7 @@ __metadata:
       optional: true
     "@mdx-js/react":
       optional: true
-  checksum: a15a4bc2798a54f80ed1b489ff3039ffd27c8bd4048c5787af6b01daa62fe57cb1466be40436c5e99d4a4ca3e06858d9eadcd1c0b36c0475d16dccbcbc6dfdf8
+  checksum: 552d433235620686141491a26a2c8218e8c57ec90d33fdd63634f2d1e757248ca50b41f368986e4051d426b3a2fc0449a3f32ac3690deff1ca4071696c55a138
   languageName: node
   linkType: hard
 
