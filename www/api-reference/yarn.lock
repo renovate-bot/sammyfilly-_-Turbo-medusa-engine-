@@ -269,20 +269,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docsearch/css@npm:3.5.2":
-  version: 3.5.2
-  resolution: "@docsearch/css@npm:3.5.2"
-  checksum: 736e029b65dba3b2fafb98b4bc4e6f7f411863fed4ef2798c82be8dcdcbdcb9dea6a75376b19d013e9d2f8607b2e3f8d8353938343b08b382894d8b16883ccb3
+"@docsearch/css@npm:3.6.2":
+  version: 3.6.2
+  resolution: "@docsearch/css@npm:3.6.2"
+  checksum: f9f8af55814a8a8dfbac78972cff2c264d4e5508de61d893dbc07544c8e1dcb044803ba150c56f4d245f8f5f88d84fa7f6226038b813850bd602f4bf48123793
   languageName: node
   linkType: hard
 
 "@docsearch/react@npm:^3.5.1":
-  version: 3.5.2
-  resolution: "@docsearch/react@npm:3.5.2"
+  version: 3.6.2
+  resolution: "@docsearch/react@npm:3.6.2"
   dependencies:
     "@algolia/autocomplete-core": 1.9.3
     "@algolia/autocomplete-preset-algolia": 1.9.3
-    "@docsearch/css": 3.5.2
+    "@docsearch/css": 3.6.2
     algoliasearch: ^4.19.1
   peerDependencies:
     "@types/react": ">= 16.8.0 < 19.0.0"
@@ -298,7 +298,7 @@ __metadata:
       optional: true
     search-insights:
       optional: true
-  checksum: 1dc22a4364be89bc4139bbcc4c90ea240a701961eb698101f53067fd6e0ca014fc12bb6577b67dc108e0ef5e8484866df8e08eb681f9bcafc898a822ce2f42d8
+  checksum: 8fcf47de8786d097005912347fe566577361193026d58b610d5540ef26fd3bf1b30bfe986e23357fd1ee5b97f0a5deb102de3bda79c069536e49a9f3d4b0fc76
   languageName: node
   linkType: hard
 
