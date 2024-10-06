@@ -5,10 +5,12 @@ __metadata:
   version: 6
   cacheKey: 8c0
 
-"@types/node@npm:^16.11.10":
-  version: 16.11.39
-  resolution: "@types/node@npm:16.11.39"
-  checksum: 28fe6cb1f048d97c524c980131d7b534e0363c124e289c70acb04a89700b58e0a1cbeeecbf3fa505aaed6a2ee98f4cc1d1025baee55f8f2f530732a9f6a87f0b
+"@types/node@npm:^20.0.0":
+  version: 20.16.10
+  resolution: "@types/node@npm:20.16.10"
+  dependencies:
+    undici-types: ~6.19.2
+  checksum: c0c0c7ecb083ec638c2118e54b5242bb4c39a75608cbac9475cf15aaceb64b8bc997a87a0798e700a81d61651c8a7750ae0455be0f0996ada6e8b2bb818d90c5
   languageName: node
   linkType: hard
 
@@ -121,7 +123,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "typedoc-frontmatter-plugin@workspace:."
   dependencies:
-    "@types/node": ^16.11.10
+    "@types/node": ^20.0.0
     typedoc: ^0.22.10
     typescript: 4.5.2
   peerDependencies:
@@ -163,6 +165,13 @@ __metadata:
     tsc: bin/tsc
     tsserver: bin/tsserver
   checksum: 90eaf5227b6a755da1a77665b24b958a8bc79b12b435c4254255ceada6ac6eb7905678b37c23c4f63a298b7ed6bee8fc87df78b98d0b0e7f0e30e873334121fd
+  languageName: node
+  linkType: hard
+
+"undici-types@npm:~6.19.2":
+  version: 6.19.8
+  resolution: "undici-types@npm:6.19.8"
+  checksum: 078afa5990fba110f6824823ace86073b4638f1d5112ee26e790155f481f2a868cc3e0615505b6f4282bdf74a3d8caad715fd809e870c2bb0704e3ea6082f344
   languageName: node
   linkType: hard
 
