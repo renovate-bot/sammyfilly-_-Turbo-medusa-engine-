@@ -6,9 +6,9 @@ __metadata:
   cacheKey: 8c0
 
 "@types/node@npm:^16.11.10":
-  version: 16.11.39
-  resolution: "@types/node@npm:16.11.39"
-  checksum: 28fe6cb1f048d97c524c980131d7b534e0363c124e289c70acb04a89700b58e0a1cbeeecbf3fa505aaed6a2ee98f4cc1d1025baee55f8f2f530732a9f6a87f0b
+  version: 16.18.113
+  resolution: "@types/node@npm:16.18.113"
+  checksum: 7fe18573b0a03ce8e721849fd2294cd54df2a9d7aff865640d776e5db176474f42c1200fa9a10a825947c64efc4d749958b76cc25774093c6e761aba44071a6b
   languageName: node
   linkType: hard
 
